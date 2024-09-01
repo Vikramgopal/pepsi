@@ -67,9 +67,6 @@ section{
   border-color: white;
   border-width: 0.2rem;
 }
-.navbar{
-  background-color: #0062be;
-}
 
 
 /* ############################# */
@@ -94,10 +91,7 @@ section{
 
      transform: translateY(-12%);
    }
-   .main-box{
-    margin-top: 9.6rem
-     }
-
+ 
    
 /* ############################ */
 /* What is new */
