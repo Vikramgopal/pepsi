@@ -39,6 +39,11 @@ mouseouted.classList.remove('operations__tab--active')
 
   })
 
+  tabsContainer.addEventListener('click', function (e) {
+    const mouseouted = e.target.closest('.operations__tab');
+mouseouted.classList.toggle('operations__tab--active')
+  })
+
 
   
 ///////////////////////////////////////
